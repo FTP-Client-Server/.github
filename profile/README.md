@@ -23,6 +23,7 @@ o -u unzip temp.tar.gz in the pwd of the client
 o Ex: C$ sgetfiles 1240 12450 -u
 
 quit 
+
 o The command is transferred to the server and the client process is terminated
 
 
